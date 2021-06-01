@@ -3,7 +3,7 @@ A python implementation of a classic algorithm eigenface for face recognition.
 
 ## Overview
 
-数值方法课程 project：基于 PCA (Principal Component Analysis) 的特征脸识别算法的 Python 实现。
+数值方法课程 project：基于 PCA (Principal Component Analysis) 的特征脸识别算法。
 
 人脸数据集来源于班级的所有同学，出于保护个人隐私的目的无法公开，代码因此无法正常运行。
 
